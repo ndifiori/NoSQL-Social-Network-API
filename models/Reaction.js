@@ -15,7 +15,6 @@ const dateFormat = require('../utils/dateFormat')
     // toJson = documents from collection converted to JSON when returned from db
     // id field = will not be included when returned
  
-
 const reactionSchema = new Schema(
   {
     reactionId: {
