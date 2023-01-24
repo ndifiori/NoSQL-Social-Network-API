@@ -14,7 +14,7 @@ I hope you enjoy my application.
 
 Here is preview of the deployed application. 
 
-![video walkthrough](./)
+![video walkthrough](./videoWalkthrough.gif)
 
 ## Links 
 
